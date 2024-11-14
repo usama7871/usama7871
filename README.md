@@ -65,7 +65,7 @@ Did you know? I once solved a complex machine learning problem by training a mod
 
 ## 📫 Contact Me
 
-- Email: usama@example.com  
+- Email: kusamakhan1234@gmail.com  
 - LinkedIn: [usama-linkedin](https://www.linkedin.com/in/usama7871)  
 - Instagram: [@usama_instagram](https://instagram.com/usama_abdullah)
 
