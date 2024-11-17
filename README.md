@@ -37,7 +37,7 @@ Whether you're looking to bring your vision to life or need a seasoned developer
 ### 📫 Reach Out:  
 Feel free to drop me a message here to discuss your project or just chat about all things tech! 😄
 
-### 🔗 [Portfolio](https://your-portfolio-link.com):  
+### 🔗 [Portfolio](https://my-cv-ashen.vercel.app/):  
 Check out some of my latest projects and explore my coding journey on my portfolio website. 🌟
 
 ### 🌟 Let's Code Together:  
