@@ -9,7 +9,10 @@
 
 ## 🌟 About Me
 
-Hey there! I’m **Usama**, a **full-stack developer**, **machine learning enthusiast**, and **freelancer** with a passion for crafting elegant, scalable, and innovative solutions. I thrive at the intersection of **code**, **creativity**, and **data**, building applications and systems that solve real-world problems. Whether it’s developing seamless web experiences, diving into the depths of machine learning, or automating workflows, I’m always ready to tackle the next big challenge. 🚀
+Hey there! I’m **Usama**, a **3rd-year MBBS student** and a **CS student at Harvard CS50**, as well as a **full-stack developer**, **machine learning enthusiast**, and **freelancer**. My journey blends the worlds of **medicine** and **technology**, driven by a passion for leveraging AI and software development to innovate in healthcare and beyond.  
+
+I thrive at the intersection of **code**, **creativity**, and **data**, building applications and systems that solve real-world problems. Whether it’s developing seamless web experiences, diving into machine learning, automating workflows, or exploring advancements in **medical AI**, I’m always ready to tackle the next big challenge. 🚀  
+
 
 ---
 
