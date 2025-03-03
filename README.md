@@ -1,5 +1,4 @@
-
-# 👋 Welcome to Usama's GitHub Universe!  
+# 👋 Welcome to Usama's GitHub Universe!
 
 ![GitHub followers](https://img.shields.io/github/followers/usama7871?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/usama7871?label=Stars&style=social)
@@ -9,36 +8,35 @@
 
 ## 🌟 About Me
 
-Hey there! I’m **Usama**, a **3rd-year MBBS student** and a **CS student at Harvard CS50**, as well as a **full-stack developer**, **machine learning enthusiast**, and **freelancer**. My journey blends the worlds of **medicine** and **technology**, driven by a passion for leveraging AI and software development to innovate in healthcare and beyond.  
+Hello! I’m **Usama** – a 3rd-year MBBS student with a deep passion for tech. I’m currently diving into computer science through Harvard CS50 while thriving as a **full-stack developer** and **machine learning enthusiast**. I’m passionate about blending the fields of **medicine** and **technology** to drive innovation, especially through AI-driven healthcare solutions.
 
-I thrive at the intersection of **code**, **creativity**, and **data**, building applications and systems that solve real-world problems. Whether it’s developing seamless web experiences, diving into machine learning, automating workflows, or exploring advancements in **medical AI**, I’m always ready to tackle the next big challenge. 🚀  
-
+I love working at the intersection of **code**, **creativity**, and **data**. Whether it's building web applications, exploring machine learning models, or automating everyday workflows, I'm constantly seeking out the next big challenge. 🚀
 
 ---
 
 ## 🛠️ Tech Stack & Expertise
 
-### 🧠 **Machine Learning & AI**  
+### 🧠 Machine Learning & AI  
 - **Frameworks**: TensorFlow, PyTorch, Scikit-learn  
-- **Techniques**: Predictive Analytics, Natural Language Processing (NLP), Computer Vision  
+- **Techniques**: Predictive Analytics, NLP, Computer Vision  
 - **Tools**: Pandas, NumPy, OpenCV, Hugging Face  
 
-### 🌐 **Web Development**  
+### 🌐 Web Development  
 - **Frontend**: React, Next.js, Tailwind CSS, TypeScript  
 - **Backend**: Node.js, Express, Django, Flask  
 - **Full-Stack Frameworks**: Next.js, Remix  
 
-### 🛡️ **DevOps & Cloud**  
-- **Cloud Platforms**: AWS, Google Cloud Platform (GCP), Vercel, Netlify  
+### 🛡️ DevOps & Cloud  
+- **Cloud**: AWS, GCP, Vercel, Netlify  
 - **CI/CD**: GitHub Actions, Jenkins, CircleCI  
-- **Containerization**: Docker, Kubernetes  
+- **Containers**: Docker, Kubernetes  
 
-### 📊 **Data Engineering**  
+### 📊 Data Engineering  
 - **Databases**: MongoDB, PostgreSQL, Firebase, Redis  
-- **Data Pipelines**: Apache Airflow, Apache Kafka  
+- **Pipelines**: Apache Airflow, Apache Kafka  
 - **Big Data**: Apache Spark, Hadoop  
 
-### 🛠️ **Tools & Utilities**  
+### 🛠️ Tools & Utilities  
 - **Version Control**: Git, GitHub, GitLab  
 - **Testing**: Jest, Cypress, Pytest  
 - **Automation**: Selenium, BeautifulSoup  
@@ -47,24 +45,23 @@ I thrive at the intersection of **code**, **creativity**, and **data**, building
 
 ## 🚀 Featured Projects
 
-### 🌟 **AI-Powered Chatbot**  
-Built a conversational AI chatbot using **NLP** and **TensorFlow** for seamless customer support.  
-🔗 [View Project](#)  
+### 🌟 AI-Powered Chatbot  
+A conversational AI chatbot leveraging **NLP** and **TensorFlow** for intuitive customer support.  
+🔗 [View Project](#)
 
-### 🛒 **E-Commerce Platform**  
-Developed a full-stack e-commerce app with **React**, **Node.js**, and **MongoDB**, featuring real-time inventory management.  
-🔗 [View Project](#)  
+### 🛒 E-Commerce Platform  
+A robust full-stack e-commerce solution built with **React**, **Node.js**, and **MongoDB** that features real-time inventory management.  
+🔗 [View Project](#)
 
-### 📈 **Data Visualization Dashboard**  
-Created an interactive dashboard using **D3.js** and **Plotly** to visualize complex datasets for business insights.  
-🔗 [View Project](#)  
+### 📈 Data Visualization Dashboard  
+An interactive dashboard developed with **D3.js** and **Plotly** for clear, data-driven insights.  
+🔗 [View Project](#)
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usama7871&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usama7871&layout=compact&theme=radical)
 
 ---
@@ -95,23 +92,38 @@ Created an interactive dashboard using **D3.js** and **Plotly** to visualize com
 
 ---
 
+## 📚 Currently Learning
+
+- **Advanced AI Techniques in Healthcare**
+- **Cloud-Native Microservices**
+- **3D Modeling for Medical Imaging**
+
+---
+
+## ✨ Highlights & Achievements
+
+- Successfully integrated AI-driven solutions into medical workflows.
+- Contributed to multiple open-source projects.
+- Continuously expanding my tech stack to bridge the gap between medicine and technology.
+
+---
+
 ## 🌟 Let’s Collaborate!
 
-I’m always excited to collaborate on innovative projects, contribute to open-source, or brainstorm ideas. Whether you’re building the next big thing or need a hand with your project, let’s connect and create something amazing together!  
+I’m always excited to connect on innovative projects and open-source contributions. Whether you’re working on cutting-edge medical AI or the next big web app, let’s team up to create something amazing.
 
 ### 📫 Reach Out:  
-- **Email**: kusamakhan1234@gmail.com  
+- **Email**: [kusamakhan1234@gmail.com](mailto:kusamakhan1234@gmail.com)  
 - **LinkedIn**: [usama-linkedin](https://www.linkedin.com/in/usama7871)  
-- **Portfolio**: [My Portfolio](https://my-cv-ashen.vercel.app/)  
+- **Portfolio**: [My Portfolio](https://my-cv-ashen.vercel.app/)
 
 ---
 
 ## 🎉 Fun Fact
 
-I once built a **machine learning model** that could predict the weather with 90% accuracy using only **10MB of training data**! It’s proof that creativity and resourcefulness can outperform brute force. 🧠✨
+I once built a **machine learning model** that predicted the weather with 90% accuracy using just **10MB of training data**. Creativity and resourcefulness truly trump brute force! 🧠✨
 
 ---
 
-> **“The best code is the code you don’t have to write.”** – Jeff Atwood  
+> **“The best code is the code you don’t have to write.”** – Jeff Atwood
 
----
