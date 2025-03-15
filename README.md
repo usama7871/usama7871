@@ -51,11 +51,10 @@ A conversational AI chatbot leveraging **NLP** and **TensorFlow** for intuitive 
 
 ### 🛒 E-Commerce Platform  
 A robust full-stack e-commerce solution built with **React**, **Node.js**, and **MongoDB** that features real-time inventory management.  
-🔗 [View Project](#)
-
+🔗 [View Project](https://hackathon-2-nu-ten.vercel.app/)
 ### 📈 Data Visualization Dashboard  
 An interactive dashboard developed with **D3.js** and **Plotly** for clear, data-driven insights.  
-🔗 [View Project](#)
+🔗 [View Project](https://password-strength-meter-9hwukrpbzkgkuqkue4n9j6.streamlit.app/)
 
 ---
 
