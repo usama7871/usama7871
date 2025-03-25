@@ -12,9 +12,8 @@ Hello! I’m **Usama** – a 3rd-year MBBS student with a deep passion for tech.
 
 I love working at the intersection of **code**, **creativity**, and **data**. Whether it's building web applications, exploring machine learning models, or automating everyday workflows, I'm constantly seeking out the next big challenge. 🚀
 
----
 
-<h1 align="center">Hi ðŸ‘‹, I'm Usama</h1>
+<h1 align="center">Hey Every One ‘‹, I'm Usama</h1>
 <h3 align="center">Full stack developer  from Pakistan</h3>
 <p align="center">
   <a href="https://github.com/usama7871">
@@ -29,7 +28,7 @@ I love working at the intersection of **code**, **creativity**, and **data**. Wh
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 ---
-### ðŸ“Š GitHub Stats
+### Usama's GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usama7871&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usama7871&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -37,13 +36,13 @@ I love working at the intersection of **code**, **creativity**, and **data**. Wh
 </div>
 ---
 
-### ðŸ Snake Eating My Contributions
+### 🐍🐉 Snake Eating My Contributions
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 ---
 
-### ðŸ’¬ Let's Connect!
+### 🔗¬ Let's Connect!
 <p align="center">
   <a href="{linkedin}" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -56,9 +55,6 @@ I love working at the intersection of **code**, **creativity**, and **data**. Wh
   </a>
   <a href="{instagram}" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="{youtube}" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="{portfolio}" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
