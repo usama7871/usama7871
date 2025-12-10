@@ -13,9 +13,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=800&color=00ff41&center=true&vCenter=true&width=900&height=80&lines=Doctor+%E2%9A%A1+AI+Engineer;LangChain+%E2%9A%A1+OpenAI+Agents+%E2%9A%A1+n8n;From+Stethoscope+to+Neural+Networks+%F0%9F%A7%A0%E2%9E%9C%EF%B8%8F%F0%9F%A4%96" />
 </p>
 
-<!-- Premium Theme Toggle Button -->
+<!-- Premium Theme Toggle -->
 <p align="center">
-  <button onclick="document.body.classList.toggle('light')" style="background:none;border:none;cursor:pointer;font-size:28px;" aria-label="Toggle Theme">
+  <button onclick="document.body.classList.toggle('light')" style="background:none;border:none;cursor:pointer;font-size:32px;padding:10px;" aria-label="Toggle Theme">
     <span id="theme-icon">🌙</span>
   </button>
 </p>
@@ -24,9 +24,9 @@
 
 ## What I Build
 Autonomous AI agents that **cut diagnostic time by 90%+** using bleeding-edge tech:  
-OpenAI Agents SDK • LangGraph • LCEL • n8n • Multi-modal RAG • Fine-tuned medical LLMs
+**OpenAI Agents SDK • LangGraph • LCEL • n8n • Multi-modal RAG • Fine-tuned medical LLMs**
 
-**Medizo AI** — The future of AI-powered diagnostics (trusted by doctors globally)
+**Medizo AI** — The future of AI-powered diagnostics (trusted by doctors globally) [medizo-ai.com](https://medizo-ai.com)
 
 ---
 
@@ -79,11 +79,11 @@ Infra       → Docker • Kubernetes • AWS • Vercel • Pinecone • Weavia
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama7871&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
 </div>
 
-<!-- Animated Contribution Snake -->
+<!-- Animated Contribution Snake (Dark/Light Adaptive) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -122,14 +122,13 @@ Infra       → Docker • Kubernetes • AWS • Vercel • Pinecone • Weavia
 
 **Star my repos if you're obsessed with AI agents & healthcare revolution!**
 
-
+<!-- Premium Theme Toggle Script + Smooth Transitions -->
 <script>
   const toggle = () => {
     document.body.classList.toggle('light');
     const isLight = document.body.classList.contains('light');
     document.getElementById('theme-icon').textContent = isLight ? '☀️' : '🌙';
   };
-  // Auto-detect system preference
   if (window.matchMedia('(prefers-color-scheme: light)').matches) {
     document.body.classList.add('light');
     document.getElementById('theme-icon').textContent = '☀️';
@@ -137,9 +136,11 @@ Infra       → Docker • Kubernetes • AWS • Vercel • Pinecone • Weavia
 </script>
 
 <style>
-  body { transition: all 0.5s ease; }
-  .light { background: #f1f5f9; color: #0f172a; }
-  .light a { color: #3b82f6; }
+  body { transition: background 0.6s ease, color 0.6s ease; }
+  .light { background: #f1f5f9 !important; color: #0f172a !important; }
+  .light a { color: #3b82f6 !important; }
   .light img:not([src*="shields"]):not([src*="snake"]) { filter: brightness(1.1) saturate(1.2); }
-  .light .markdown-body { background: #ffffff; }
+  .light .markdown-body { background: #ffffff !important; }
 </style>
+```
+
