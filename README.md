@@ -221,11 +221,13 @@
 
 ### 🐍 &nbsp;That's How Commits Move...
 
-<div align="center">
-  <a href="https://github.com/usama7871/">
-  <img src="https://raw.githubusercontent.com/usama7871/usama7871/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
+ <div align=center>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usama7871&theme=github_dark)
+
+ </div>
+
+
 
 > **"Medicine saves lives. AI makes it faster."** — Usama Abdullah
 
