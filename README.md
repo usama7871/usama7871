@@ -242,17 +242,10 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
 
 <p align="center">
 
-<a href="https://twitter.com/intent/follow?screen_name=usama7871">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
-</a>
-<a href="https://www.instagram.com/usama7871/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
-
 <a href="https://linkedin.com/in/usama7871"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/usama7871"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white"/></a>
 <a href="mailto:kusamakhan1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://medizo-ai.com"><img src="https://img.shields.io/badge/-Medizo_AI-10B981?style=flat&logo=react&logoColor=white"/></a>
+<a href="https://medizo-ai-hackathon.vercel.app"><img src="https://img.shields.io/badge/-Medizo_AI-10B981?style=flat&logo=react&logoColor=white"/></a>
 <a href="https://my-cv-ashen.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -261,7 +254,7 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
 <img src="https://img.shields.io/static/v1?label=&message=Collaboration%20Welcome&color=8B5CF6&style=flat&logo=discord" />
 </p>
 
-### 🐍 &nbsp;That's How Commits Move...
+### 📜&nbsp;That's my Commits Book...
 
  <div align=center>
 
