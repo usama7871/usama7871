@@ -1,3 +1,7 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
 <img alt="Wave" src="https://raw.githubusercontent.com/Adityakanoi2001/Adityakanoi2001/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Usama Abdullah</h2>
 
 ### 👨‍⚕️ &nbsp;About Me
