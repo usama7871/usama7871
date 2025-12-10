@@ -1,7 +1,5 @@
 <img alt="Wave" src="https://raw.githubusercontent.com/Adityakanoi2001/Adityakanoi2001/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Usama Abdullah</h2>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ### 👨‍⚕️ &nbsp;About Me
 
 👨‍⚕️ &nbsp;3rd-year MBBS Student at SITE Town Karachi, transitioning to AI and software development.  
