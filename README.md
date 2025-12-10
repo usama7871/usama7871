@@ -1,122 +1,98 @@
-# Hey, I'm Usama – Doctor × AI Builder
+![Usama Abdullah Banner](https://via.placeholder.com/1200x400/0f172a/ffffff?text=Usama+Abdullah+-+Doctor+%C3%97+AI+Builder) <!-- Replace with custom banner URL -->
 
-![GitHub followers](https://img.shields.io/github/followers/usama7871?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/usama7871?label=Stars&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=usama7871&color=blueviolet)
+<img alt="Wave" src="https://raw.githubusercontent.com/Adityakanoi2001/Adityakanoi2001/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Usama Abdullah</h2>
+
+### 👨‍⚕️ &nbsp;About Me
+
+👨‍⚕️ &nbsp;3rd-year MBBS Student at SITE Town Karachi, transitioning to AI and software development.  
+💡 &nbsp;Building autonomous medical AI agents that cut diagnostic time by 90%+.  
+🎓 &nbsp;Founder of [Medizo AI](https://medizo-ai.com) – AI-powered diagnostics for healthcare.  
+🌱 &nbsp;Learning Python, TypeScript, LangChain, OpenAI Agents SDK, n8n for agentic AI.  
+✍️ &nbsp;Exploring cybersecurity, Next.js, and multi-agent frameworks in free time.  
+💬 &nbsp;Open to collaborations on AI health-tech – DM for chats or ideas.  
+✉️ &nbsp;Email: kusamakhan1234@gmail.com  
+📄 &nbsp;Check my [Portfolio](https://my-cv-ashen.vercel.app/) and [ORCID](https://orcid.org/0009-0000-4019-5891).
+
+<img alt="AI Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![n8n](https://img.shields.io/badge/n8n-4F46E5?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%2300CC99.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Pinecone](https://img.shields.io/badge/Pinecone-%23F27A2A?style=for-the-badge&logo=pinecone&logoColor=white)&nbsp;
+
+### 🗃 &nbsp;Databases & Tools
+
+![Supabase](https://img.shields.io/badge/Supabase-F03E5A?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-398ABF?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <strong>3rd-year MBBS • Founder @ <a href="https://medizo-ai.com">Medizo AI</a> • Building autonomous medical AI agents that save lives</strong>
+  <a href="https://github.com/usama7871">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usama7871&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/usama7871">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama7871&layout=compact&langs_count=8&theme=radical"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=800&color=00ff41&center=true&vCenter=true&width=900&height=80&lines=Doctor+%E2%9A%A1+AI+Engineer;LangChain+%E2%9A%A1+OpenAI+Agents+%E2%9A%A1+n8n;From+Stethoscope+to+Neural+Networks+%F0%9F%A7%A0%E2%9E%9C%EF%B8%8F%F0%9F%A4%96" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=usama7871&theme=radical&hide_border=true"/>
 </p>
 
-<!-- Premium Theme Toggle -->
-<p align="center">
-  <button onclick="document.body.classList.toggle('light')" style="background:none;border:none;cursor:pointer;font-size:32px;padding:10px;" aria-label="Toggle Theme">
-    <span id="theme-icon">🌙</span>
-  </button>
-</p>
+### 🎖 &nbsp;Featured Projects
 
----
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Medizo AI** | AI diagnostics for hospitals & clinics (95%+ accuracy) | Next.js + LangChain + GPT-4o | [Live](https://medizo-ai.com) |
+| **Agent Orchestrator** | Multi-agent framework with memory & tools | LangGraph + n8n + FastAPI | [Repo](https://github.com/usama7871/ai-agents) |
+| **E-Commerce Hackathon** | Full-stack e-com app (Hackathon Winner) | Next.js + Node + MongoDB | [Live](https://hackathon-2-nu-ten.vercel.app/) |
+| **Streamlit To-Do** | Daily task manager app | Streamlit + Python | [Repo](https://github.com/usama7871/streamlit-todoapp) |
 
-## What I Build
-Autonomous AI agents that **cut diagnostic time by 90%+** using bleeding-edge tech:  
-**OpenAI Agents SDK • LangGraph • LCEL • n8n • Multi-modal RAG • Fine-tuned medical LLMs**
+### 📜 &nbsp;Currently Building
+- Autonomous medical co-pilot with LangGraph sub-agents  
+- Open-source n8n + LangChain templates for healthcare  
+- Real-time voice/vision symptom checker (Whisper + GPT-4o)
 
-**Medizo AI** — The future of AI-powered diagnostics (trusted by doctors globally) [medizo-ai.com](https://medizo-ai.com)
-
----
-
-## Tech Stack
-
-<div align="center">
-
-```text
-AI/ML       → OpenAI • LangChain • LlamaIndex • HuggingFace • PyTorch • TensorFlow
-Agents      → OpenAI Agents SDK • CrewAI • LangGraph • AutoGen • n8n
-Frontend    → Next.js 14 (App Router) • TypeScript • Tailwind • Framer Motion • Shadcn/UI
-Backend     → FastAPI • Node.js • Supabase • Prisma
-Infra       → Docker • Kubernetes • AWS • Vercel • Pinecone • Weaviate
-```
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-4F46E5?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</div>
-
----
-
-## Featured Projects
-
-| Project                    | Description                                           | Tech Stack                            | Links                                            |
-|----------------------------|-------------------------------------------------------|---------------------------------------|--------------------------------------------------|
-| **Medizo AI**              | AI diagnostics platform for hospitals & clinics       | Next.js + LangChain + OpenAI Agents   | [medizo-ai.com](https://medizo-ai.com)           |
-| **Agent Orchestrator**     | Multi-agent framework with memory & tool delegation   | LangGraph + n8n + FastAPI             | [Repo](https://github.com/usama7871/ai-agents)   |
-| **Medical RAG Engine**     | 95%+ accurate symptom → diagnosis                     | LlamaIndex + Pinecone + GPT-4o        | Private • DM for live demo                       |
-| **E-Commerce Platform**    | Hackathon-winning full-stack app                      | Next.js + Node + MongoDB              | [Live](https://hackathon-2-nu-ten.vercel.app/)   |
-
----
-
-## GitHub Stats (Animated & Real-time)
-
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=usama7871&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub%20Metrics" />
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=usama7871&theme=tokyonight&hide_border=true&fire=FF4500&ring=00FF41&currStreakLabel=00FF41" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama7871&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
-</div>
-
-<!-- Animated Contribution Snake (Dark/Light Adaptive) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-## Currently Building (Live Progress)
-- Autonomous medical co-pilot with 7 specialist sub-agents (LangGraph)
-- Open-source n8n + LangChain healthcare agent templates
-- Real-time voice + vision symptom checker (Whisper + GPT-4o)
-
----
-
-## Let's Connect & Shape the Future
-
-<div align="center">
-
-<a href="https://linkedin.com/in/usama7871"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/usama7871"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:kusamakhan1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://medizo-ai.com"><img src="https://img.shields.io/badge/Medizo_AI-10B981?style=for-the-badge&logo=react&logoColor=white" /></a>
-<a href="https://my-cv-ashen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/static/v1?label=&message=Open%20to%20AI%20Health-Tech%20Roles&color=10B981&style=for-the-badge&logo=openai" />
-<img src="https://img.shields.io/static/v1?label=&message=Collaboration%20Welcome&color=8B5CF6&style=for-the-badge&logo=discord" />
-<img src="https://img.shields.io/static/v1?label=&message=Coffee%20Chat%3F&color=FFB6C1&style=for-the-badge&logo=buymeacoffee" />
-
-</div>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/?id=usama7871&label=Visitors&style=for-the-badge&color=10B981" />
+<a href="https://linkedin.com/in/usama7871"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/usama7871"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white"/></a>
+<a href="mailto:kusamakhan1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://medizo-ai.com"><img src="https://img.shields.io/badge/-Medizo_AI-10B981?style=flat&logo=react&logoColor=white"/></a>
+<a href="https://my-cv-ashen.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
-> **"Medicine saves lives. AI makes it faster."** — Me
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=&message=Open%20to%20AI%20Health-Tech%20Roles&color=10B981&style=flat&logo=openai" />
+<img src="https://img.shields.io/static/v1?label=&message=Collaboration%20Welcome&color=8B5CF6&style=flat&logo=discord" />
+</p>
 
-**Star my repos if you're obsessed with AI agents & healthcare revolution!**
+### 🐍 &nbsp;That's How Commits Move...
+
+<div align="center">
+  <a href="https://github.com/usama7871/">
+  <img src="https://raw.githubusercontent.com/usama7871/usama7871/output/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+> **"Medicine saves lives. AI makes it faster."** — Usama Abdullah
+
+**Star my repos if you're into AI agents & healthcare! 🚀**
