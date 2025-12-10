@@ -8,6 +8,13 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<div align='center'>
+
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
+
 <img alt="Wave" src="https://raw.githubusercontent.com/Adityakanoi2001/Adityakanoi2001/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Usama Abdullah</h2>
 
 ### 👨‍⚕️ &nbsp;About Me
