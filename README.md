@@ -224,3 +224,7 @@
 > **"Medicine saves lives. AI makes it faster."** — Usama Abdullah
 
 **Star my repos if you're into AI agents & healthcare! 🚀**
+
+<div align="center">
+   <img width=200% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
