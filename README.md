@@ -12,13 +12,15 @@
 
 ### 👨‍⚕️ &nbsp;About Me
 
-👨‍⚕️ &nbsp;3rd-year MBBS Student at SITE Town Karachi, transitioning to AI and software development.  
-💡 &nbsp;Building autonomous medical AI agents that cut diagnostic time by 90%+.  
-🎓 &nbsp;Founder of [Medizo AI](https://medizo-ai.com) – AI-powered diagnostics for healthcare.  
-🌱 &nbsp;Learning Python, TypeScript, LangChain, OpenAI Agents SDK, n8n for agentic AI.  
-✍️ &nbsp;Exploring cybersecurity, Next.js, and multi-agent frameworks in free time.  
-💬 &nbsp;Open to collaborations on AI health-tech – DM for chats or ideas.  
-✉️ &nbsp;Email: kusamakhan1234@gmail.com  
+👨‍⚕️  3rd-year MBBS student from Karachi • Founder & CEO of Medizo AI
+💡  Solo-building autonomous medical AI agents that diagnose 90%+ faster and save lives
+🎓  Harvard CS50x graduate • GIAIC Governor House Excellence Squad (Top 50/50k) • Ex-Junior AI Engineer @ Panaversity
+🌱  Mastering Python • TypeScript • LangGraph • OpenAI Swarm • LCEL • Fine-tuned medical LLMs
+🚀  Turning stethoscopes into neural networks — from symptom checkers to 7-specialist AI co-pilots
+💬  Open to health-tech roles, collaborations, and coffee chats about the future of medicine × AI
+✉️  kusamakhan1234@gmail.com
+"Medicine saves lives. AI makes it faster." — Me
+Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀  
 📄 &nbsp;Check my [Portfolio](https://my-cv-ashen.vercel.app/) and [ORCID](https://orcid.org/0009-0000-4019-5891).
 
 <img alt="AI Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
