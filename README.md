@@ -122,7 +122,7 @@ Infra       → Docker • Kubernetes • AWS • Vercel • Pinecone • Weavia
 
 **Star my repos if you're obsessed with AI agents & healthcare revolution!**
 
-<!-- Premium Theme Toggle Script -->
+
 <script>
   const toggle = () => {
     document.body.classList.toggle('light');
@@ -143,4 +143,3 @@ Infra       → Docker • Kubernetes • AWS • Vercel • Pinecone • Weavia
   .light img:not([src*="shields"]):not([src*="snake"]) { filter: brightness(1.1) saturate(1.2); }
   .light .markdown-body { background: #ffffff; }
 </style>
-```
