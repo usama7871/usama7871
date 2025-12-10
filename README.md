@@ -120,24 +120,3 @@ Infra       → Docker • Kubernetes • AWS • Vercel • Pinecone • Weavia
 > **"Medicine saves lives. AI makes it faster."** — Me
 
 **Star my repos if you're obsessed with AI agents & healthcare revolution!**
-
-<!-- Premium Theme Toggle Script + Smooth Transitions -->
-<script>
-  const toggle = () => {
-    document.body.classList.toggle('light');
-    const isLight = document.body.classList.contains('light');
-    document.getElementById('theme-icon').textContent = isLight ? '☀️' : '🌙';
-  };
-  if (window.matchMedia('(prefers-color-scheme: light)').matches) {
-    document.body.classList.add('light');
-    document.getElementById('theme-icon').textContent = '☀️';
-  }
-</script>
-
-<style>
-  body { transition: background 0.6s ease, color 0.6s ease; }
-  .light { background: #f1f5f9 !important; color: #0f172a !important; }
-  .light a { color: #3b82f6 !important; }
-  .light img:not([src*="shields"]):not([src*="snake"]) { filter: brightness(1.1) saturate(1.2); }
-  .light .markdown-body { background: #ffffff !important; }
-</style>
