@@ -241,6 +241,14 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+
+<a href="https://twitter.com/intent/follow?screen_name=usama7871">
+    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
+</a>
+<a href="https://www.instagram.com/halmyradov/">
+    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
+</a>
+
 <a href="https://linkedin.com/in/usama7871"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/usama7871"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white"/></a>
 <a href="mailto:kusamakhan1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
