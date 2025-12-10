@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hey, I'm Usama – Doctor × AI Builder
 
 ![GitHub followers](https://img.shields.io/github/followers/usama7871?label=Follow&style=social)
