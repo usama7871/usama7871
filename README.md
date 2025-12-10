@@ -1,4 +1,3 @@
-
 # Hey, I'm Usama – Doctor × AI Builder
 
 ![GitHub followers](https://img.shields.io/github/followers/usama7871?label=Follow&style=social)
@@ -142,5 +141,3 @@ Infra       → Docker • Kubernetes • AWS • Vercel • Pinecone • Weavia
   .light img:not([src*="shields"]):not([src*="snake"]) { filter: brightness(1.1) saturate(1.2); }
   .light .markdown-body { background: #ffffff !important; }
 </style>
-```
-
