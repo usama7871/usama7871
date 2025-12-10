@@ -15,19 +15,100 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![n8n](https://img.shields.io/badge/n8n-4F46E5?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%2300CC99.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Pinecone](https://img.shields.io/badge/Pinecone-%23F27A2A?style=for-the-badge&logo=pinecone&logoColor=white)&nbsp;
+Here are programming languages or tools I frequently used:
+
+<div>
+  <img
+    height="30"
+    width="42"
+    alt="typescript logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="python logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="matlab logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="tailwindcss logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="react logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="svelte logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="nextjs logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="mongodb logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="redis logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="mysql logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="docker logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="nginx logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="processing logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="raspberrypi logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="arduino logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+  />
+</div>
 
 ### 🗃 &nbsp;Databases & Tools
 
