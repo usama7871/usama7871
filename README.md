@@ -15,8 +15,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-Here are programming languages or tools I frequently used:
-
 <div>
   <img
     height="30"
