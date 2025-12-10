@@ -245,7 +245,7 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
 <a href="https://twitter.com/intent/follow?screen_name=usama7871">
     ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
 </a>
-<a href="https://www.instagram.com/halmyradov/">
+<a href="https://www.instagram.com/usama7871/">
     ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
 </a>
 
