@@ -1,4 +1,4 @@
-![Usama Abdullah Banner](https://via.placeholder.com/1200x400/0f172a/ffffff?text=Usama+Abdullah+-+Doctor+%C3%97+AI+Builder) <!-- Replace with custom banner URL -->
+[Usama Abdullah Banner](https://via.placeholder.com/1200x400/0f172a/ffffff?text=Usama+Abdullah+-+Doctor+%C3%97+AI+Builder)
 
 <img alt="Wave" src="https://raw.githubusercontent.com/Adityakanoi2001/Adityakanoi2001/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Usama Abdullah</h2>
 
