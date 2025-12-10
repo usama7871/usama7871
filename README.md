@@ -39,12 +39,6 @@ Here are programming languages or tools I frequently used:
   <img
     height="30"
     width="42"
-    alt="tailwindcss logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-  />
-  <img
-    height="30"
-    width="42"
     alt="react logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   />
