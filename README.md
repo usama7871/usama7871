@@ -228,8 +228,8 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Medizo AI** | AI diagnostics for hospitals & clinics (95%+ accuracy) | Next.js + LangChain + GPT-4o | [Live](https://medizo-ai.com) |
-| **Agent Orchestrator** | Multi-agent framework with memory & tools | LangGraph + n8n + FastAPI | [Repo](https://github.com/usama7871/ai-agents) |
+| **Medizo AI** | AI diagnostics for hospitals & clinics (95%+ accuracy) | Next.js + LangChain + GPT-4o | [Live](https://medizo-ai-hackathon.vercel.app/) |
+| **Agent Orchestrator** | Multi-agent framework with memory & tools | LangGraph + n8n + FastAPI | [Repo](https://usama-speckit-hackathon.vercel.app/) |
 | **E-Commerce Hackathon** | Full-stack e-com app (Hackathon Winner) | Next.js + Node + MongoDB | [Live](https://hackathon-2-nu-ten.vercel.app/) |
 | **Streamlit To-Do** | Daily task manager app | Streamlit + Python | [Repo](https://github.com/usama7871/streamlit-todoapp) |
 
