@@ -56,8 +56,11 @@ I am a former 3rd-year MBBS student who pivoted into AI Engineering. I specializ
 ---
 
 ### 📈 GitHub Stats
-![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usama7871&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usama7871&layout=compact&theme=tokyonight)
+ <div align=center>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usama7871&theme=github_dark)
+
+ </div>
 
 ---
 
