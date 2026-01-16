@@ -19,23 +19,23 @@
 
 </div>
 
-# Hi there, I'm Usama Abdullah 👋 🩺 🤖
+# Hi there, I'm Usama Abdullah 👋 🩺 🤖<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-### AI Engineer & Healthcare Solutions Architect
+### AI Engineer & Healthcare Solutions Architect<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 **The bridge between Medical Logic and Agentic AI.**
 
 I am a former 3rd-year MBBS student who pivoted into AI Engineering. I specialize in building **Agentic Workflows** that solve complex problems in healthcare and automation. I don't just write code; I build systems that understand clinical logic.
 
 ---
 
-### 🚀 What I’m Doing Right Now
+### 🚀 What I’m Doing Right Now <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 * 🏗️ **Building:** [MedizoAI](https://hackathon-2-nu-ten.vercel.app) — An Agentic Healthcare prototype (70% complete).
 * 🤖 **Expertise:** Designing LLM-powered agents using **n8n**, **LangChain**, and **OpenAI SDK**.
 * 🌐 **Full-Stack:** Crafting high-performance backends in **Python/Node.js** and sleek frontends in **React/TypeScript**.
 
 ---
 
-### 🛠️ My Technical Arsenal
+### 🛠️ My Technical Arsenal <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -47,7 +47,7 @@ I am a former 3rd-year MBBS student who pivoted into AI Engineering. I specializ
 
 ---
 
-### 🌟 Featured Project: MedizoAI
+### 🌟 Featured Project: MedizoAI <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 **An AI-driven medical diagnostic and management ecosystem.**
 * Integrated LLMs to analyze patient symptoms with clinical accuracy.
 * Automated healthcare workflows using n8n and custom Python scripts.
@@ -55,7 +55,7 @@ I am a former 3rd-year MBBS student who pivoted into AI Engineering. I specializ
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  <div align=center>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usama7871&theme=github_dark)
@@ -64,7 +64,7 @@ I am a former 3rd-year MBBS student who pivoted into AI Engineering. I specializ
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 I am currently looking for **Freelance AI Automation projects** or **Technical Roles** in Health-Tech. If you need someone who can translate medical needs into robust AI systems, let's talk.
 
 * 💬 **WhatsApp:** [+92 305 2150446](https://wa.me/923154996438)
@@ -76,7 +76,7 @@ I am currently looking for **Freelance AI Automation projects** or **Technical R
 
 <img alt="Wave" src="https://raw.githubusercontent.com/Adityakanoi2001/Adityakanoi2001/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Usama Abdullah</h2>
 
-### 👨‍⚕️ &nbsp;About Me
+### 👨‍⚕️ &nbsp;About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 👨‍⚕️  3rd-year MBBS student from Karachi • Founder & CEO of Medizo AI
 💡  Solo-building autonomous medical AI agents that diagnose 90%+ faster and save lives
@@ -155,7 +155,7 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
     </tr>
 </table>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <div>
   <img
@@ -244,7 +244,7 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
   />
 </div>
 
-### 🗃 &nbsp;Databases & Tools
+### 🗃 &nbsp;Databases & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ![Supabase](https://img.shields.io/badge/Supabase-F03E5A?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-398ABF?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
@@ -268,7 +268,7 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center">
   <a href="https://github.com/usama7871">
@@ -283,7 +283,7 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=usama7871&theme=radical&hide_border=true"/>
 </p>
 
-### 🎖 &nbsp;Featured Projects
+### 🎖 &nbsp;Featured Projects <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
@@ -292,12 +292,12 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
 | **E-Commerce Hackathon** | Full-stack e-com app (Hackathon Winner) | Next.js + Node + MongoDB | [Live](https://hackathon-2-nu-ten.vercel.app/) |
 | **Streamlit To-Do** | Daily task manager app | Streamlit + Python | [Repo](https://github.com/usama7871/streamlit-todoapp) |
 
-### 📜 &nbsp;Currently Building
+### 📜 &nbsp;Currently Building <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 - Autonomous medical co-pilot with LangGraph sub-agents  
 - Open-source n8n + LangChain templates for healthcare  
 - Real-time voice/vision symptom checker (Whisper + GPT-4o)
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center">
 
@@ -313,7 +313,7 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
 <img src="https://img.shields.io/static/v1?label=&message=Collaboration%20Welcome&color=8B5CF6&style=flat&logo=discord" />
 </p>
 
-### 📜&nbsp;That's my Commits Book...
+### 📜&nbsp;That's my Commits Book... <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
  <div align=center>
 
@@ -325,7 +325,7 @@ Drop a ⭐ if you're obsessed with AI agents & healthcare revolution! 🚀
 
 > **"Medicine saves lives. AI makes it faster."** — Usama Abdullah
 
-**Star my repos if you're into AI agents & healthcare! 🚀**
+**Star my repos if you're into AI agents & healthcare! 🚀** <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <div align="center">
    <img width=200% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
