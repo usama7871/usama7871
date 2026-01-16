@@ -64,7 +64,7 @@ I am a former 3rd-year MBBS student who pivoted into AI Engineering. I specializ
 ### 🤝 Let's Connect
 I am currently looking for **Freelance AI Automation projects** or **Technical Roles** in Health-Tech. If you need someone who can translate medical needs into robust AI systems, let's talk.
 
-* 💬 **WhatsApp:** [+92 305 2150446](https://wa.me/923052150446)
+* 💬 **WhatsApp:** [+92 305 2150446](https://wa.me/923154996438)
 * 📧 **Email:** kusamakhan1234@gmail.com
 * 💼 **LinkedIn:** [Usama Abdullah](https://www.linkedin.com/in/usama-abdullah-91b693201/)
 
