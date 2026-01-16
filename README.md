@@ -119,7 +119,7 @@ I am currently looking for **Freelance AI Automation projects** or **Technical R
   <a href="https://linkedin.com/in/usama7871"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kusamakhan1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/usama7871"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://my-cv-ashen.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://usama7871.github.io/usama-cv/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center">
