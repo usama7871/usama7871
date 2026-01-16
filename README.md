@@ -1,3 +1,7 @@
+
+
+
+
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
@@ -14,6 +18,58 @@
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
+
+# Hi there, I'm Usama Abdullah 👋 🩺 🤖
+
+### AI Engineer & Healthcare Solutions Architect
+**The bridge between Medical Logic and Agentic AI.**
+
+I am a former 3rd-year MBBS student who pivoted into AI Engineering. I specialize in building **Agentic Workflows** that solve complex problems in healthcare and automation. I don't just write code; I build systems that understand clinical logic.
+
+---
+
+### 🚀 What I’m Doing Right Now
+* 🏗️ **Building:** [MedizoAI](https://hackathon-2-nu-ten.vercel.app) — An Agentic Healthcare prototype (70% complete).
+* 🤖 **Expertise:** Designing LLM-powered agents using **n8n**, **LangChain**, and **OpenAI SDK**.
+* 🌐 **Full-Stack:** Crafting high-performance backends in **Python/Node.js** and sleek frontends in **React/TypeScript**.
+
+---
+
+### 🛠️ My Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & Automation** | n8n, LangChain, OpenAI, TensorFlow, PyTorch, RAG |
+| **Backend** | Python (FastAPI/Flask), Node.js, TypeScript, PostgreSQL, MongoDB |
+| **Frontend** | React.js, Next.js, Tailwind CSS |
+| **DevOps** | Docker, Kubernetes, Git, Google Cloud Platform (GCP) |
+| **Domain Knowledge** | Clinical Medicine, Anatomy, Pharmacology, Medical Data Standards |
+
+---
+
+### 🌟 Featured Project: MedizoAI
+**An AI-driven medical diagnostic and management ecosystem.**
+* Integrated LLMs to analyze patient symptoms with clinical accuracy.
+* Automated healthcare workflows using n8n and custom Python scripts.
+* Designed for scalability and HIPAA-compliant data handling.
+
+---
+
+### 📈 GitHub Stats
+![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usama7871&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usama7871&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Let's Connect
+I am currently looking for **Freelance AI Automation projects** or **Technical Roles** in Health-Tech. If you need someone who can translate medical needs into robust AI systems, let's talk.
+
+* 💬 **WhatsApp:** [+92 305 2150446](https://wa.me/923052150446)
+* 📧 **Email:** kusamakhan1234@gmail.com
+* 💼 **LinkedIn:** [Usama Abdullah](https://www.linkedin.com/in/usama-abdullah-91b693201/)
+
+---
+*"Medicine teaches you to diagnose; Engineering teaches you to fix. I do both."*
 
 <img alt="Wave" src="https://raw.githubusercontent.com/Adityakanoi2001/Adityakanoi2001/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Usama Abdullah</h2>
 
