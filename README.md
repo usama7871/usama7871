@@ -12,7 +12,7 @@
 
 <div align='center'>
   <h2><b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b></h2>
-  <h1>Hi there, I'm Usama Abdullah 👋 🩺 🤖</h1>
+  <h1>Hi there, I'm Usama Abdullah 👋 🩺 🤖 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
   <h3>AI Engineer & Healthcare Solutions Architect | The Bridge Between Medical Logic and Agentic AI</h3>
   <p><i>"Medicine saves lives. AI makes it faster."</i></p>
 </div>
